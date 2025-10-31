@@ -1,0 +1,2 @@
+export VITE_MAPBOX_TOKEN="pk.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+export VITE_MAPBOX_STYLE_ID="mapbox://styles/xxxx/xxxxxxx"
